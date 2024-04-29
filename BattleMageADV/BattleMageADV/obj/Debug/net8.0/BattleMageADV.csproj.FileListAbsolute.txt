@@ -1,0 +1,14 @@
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\bin\Debug\net8.0\BattleMageADV.exe
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\bin\Debug\net8.0\BattleMageADV.deps.json
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\bin\Debug\net8.0\BattleMageADV.runtimeconfig.json
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\bin\Debug\net8.0\BattleMageADV.dll
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\bin\Debug\net8.0\BattleMageADV.pdb
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.AssemblyInfoInputs.cache
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.AssemblyInfo.cs
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.csproj.CoreCompileInputs.cache
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.dll
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\refint\BattleMageADV.dll
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.pdb
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\BattleMageADV.genruntimeconfig.cache
+C:\Users\mytra\OneDrive\Desktop\repos\BattleMageADV\BattleMageADV\BattleMageADV\obj\Debug\net8.0\ref\BattleMageADV.dll
